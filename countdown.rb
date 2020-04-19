@@ -6,3 +6,4 @@ def countdown(int)
     int -= 1
   end
 end
+countdown(10)
